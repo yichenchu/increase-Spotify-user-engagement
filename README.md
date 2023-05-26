@@ -26,6 +26,6 @@ pip install BeautifulSoup
 ## Different Files And Their Usage:
 1. EuropeanSpotify.ipynb: Code for data collection and pre-processing for European Spotify datatset
 2. SpotifyUserReviewAnalysis.ipynb: Code for Spotify Community User Review text analytics
-3. df_t_test.csv: This csv is an output from MGMT_59000_Group11_EuropeanSpotify.ipynb. It is used to perform hypothesis testing in R. So please load this file to do hypothesis testing in RStudio.
+3. df_t_test.csv: This csv is an output from EuropeanSpotify.ipynb. It is used to perform hypothesis testing in R. So please load this file to do hypothesis testing in RStudio.
 4. HypothesisTesting.r - Code for Hypothesis Testing
  
